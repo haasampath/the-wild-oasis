@@ -5,7 +5,7 @@ npm i react-router-dom@6
 npm i react-icons
 supabase => codedsampath@gmail.com
 gmail pw:Codeds
-QHSOO1dqSBbz70Kl supabase-pw
+
 npm install @supabase/supabase-js
 npm i @tanstack/react-query@4
 npm i @tanstack/react-query-devtools@4
@@ -15,10 +15,19 @@ npm i react-hook-form@7
 npm i recharts@2
 npm i react-error-boundary
 
+=======================================
+git init
+git add -A  
+git commit -m "initial commit the-wild-oasis"
+git remote add origin https://github.com/haasampath/the-wild-oasis.git
+git push -u origin master
+======================================
 https://react-icons.github.io/react-icons/icons?name=hi2
 https://supabase.com/dashboard
 
 # React + Vite
+
+#
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
